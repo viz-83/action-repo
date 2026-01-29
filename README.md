@@ -12,4 +12,4 @@ Actions performed in this repository (pushes, PRs, merges) send webhooks to the 
 2.  Perform actions:
     - **Push**: `git push`
     - **Pull Request**: Open a PR.
-    - **Merge**: Merge a PR.
+    - **Merge**: Merge a PR
